@@ -7,3 +7,25 @@
     font-size: 22px;
     font-family: monospace;
 }
+
+table {
+    border: 2px solid gray
+}
+
+table td {
+    border: 1px solid gray;
+}
+
+div {
+    margin: 20px 0;
+    font-size: 14px;
+}
+
+button {
+    padding: 8px 15px;
+    margin: 10px 0;
+}
+
+.titles {
+    font-size: larger;
+}
