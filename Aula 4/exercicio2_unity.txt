@@ -1,0 +1,7 @@
+Using the same project:
+TM-2020/Aula 4/RicardoGuia-21301/TMBallTutorial
+
+Create a new Scene to start working in this tutorial:
+https://learn.unity.com/project/roll-a-ball-tutorial
+
+Finishing the tutorial you should have something like, i show in the video 
